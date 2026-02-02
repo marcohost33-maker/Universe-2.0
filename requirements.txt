@@ -1,0 +1,5 @@
+numpy>=1.21.0
+trimesh>=3.15.0
+scikit-learn>=1.0.0
+ezdxf>=1.0.0
+svgwrite>=1.4.0
